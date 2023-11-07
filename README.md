@@ -3,7 +3,7 @@ Your project's description...
 
 ## Environments
 - Preview: https://main--aem-project--kevljones.hlx.page/
-- Live: https://main--{repo}--{owner}.hlx.live/
+- Live: https://main--aem-project--kevljones.hlx.live/
 
 ## Installation
 
